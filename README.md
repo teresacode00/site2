@@ -7,4 +7,4 @@ docker load -i calisto-lobinhosii.tar
 
  2 Para rodar
  
-docker run -d -p 8080:80 carlinhos-lobinho
+docker run -d -p 8080:80 calisto-lobinhos
