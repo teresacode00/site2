@@ -1,6 +1,6 @@
 Baixe a imagem e siga os passos abaixo:
-# Para importar a imagem
+1 Para importar a imagem
 docker load -i calisto-lobinhosii.tar
 
-#para rodar
+ 2 Para rodar
 docker run -d -p 8080:80 carlinhos-lobinho
